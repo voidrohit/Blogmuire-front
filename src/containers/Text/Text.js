@@ -1,6 +1,5 @@
 import React from 'react';
 
-import './Text.css'
 import AuthPost from './AuthPost';
 import NotAuthPost from './notAuthPost';
 
