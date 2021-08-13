@@ -1,8 +1,6 @@
 import React,{ useState , useEffect}from 'react';
 import axios from 'axios';
 
-import './Text.css'
-
 const NotAuthPost = () => {
 
     const [post,setPost] = useState([]);
