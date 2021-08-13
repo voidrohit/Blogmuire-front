@@ -28,7 +28,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "server": "NODE_ENV=production nodemon app.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,9 +50,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {    
-    "node": "16.4.1"  
-    "npm": "7.20.3"       
   }
 }
