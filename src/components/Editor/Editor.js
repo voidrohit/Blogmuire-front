@@ -9,7 +9,7 @@ import "./Editor.css";
 import "draft-js/dist/Draft.css";
 import "draftail/dist/draftail.css";
 import "draft-js-inline-toolbar-plugin/lib/plugin.css";
-import axios from '../../axios'
+import axios from 'axios'
 import "draft-js-side-toolbar-plugin/lib/plugin.css";
 const inlineToolbarPlugin = createInlineToolbarPlugin();
 const { InlineToolbar } = inlineToolbarPlugin;const sideToolbarPlugin = createSideToolbarPlugin();
